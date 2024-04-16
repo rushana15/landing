@@ -1,0 +1,18 @@
+.cards {
+  justify-content: space-around;
+}
+.cards {
+  display: flex;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+.card img {
+  width: 150px;
+}
+.card {
+  border: 1px solid rgb(94, 92, 92);
+  width: 200px;
+  text-align: center;
+  padding: 20px;
+
+}
